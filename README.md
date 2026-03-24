@@ -47,8 +47,9 @@ The project is based on financial and marketing data combined into a working tab
 ## Project Outcome
 This analysis helps support financial decision-making by identifying which markets generate stronger returns and which ones may require cost review or marketing optimization.
 
-## Tool Used
-SQL
+## Tools Used
+- SQL for financial analysis and KPI calculation
+- Excel for the final executive summary presentation
 
 ## Author
 Miguel Torres
