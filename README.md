@@ -40,8 +40,7 @@ The project is based on financial and marketing data combined into a working tab
 - Executive reporting
 
 ## Files Included
-- SQL queries or project notes
-- Executive summary file
+- Executive summary in Excel
 - Supporting project documentation
 
 ## Project Outcome
